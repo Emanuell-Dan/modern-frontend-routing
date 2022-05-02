@@ -1,6 +1,8 @@
 # Modern Front End Routing
 
-Presentation based on [Eduardo’s (@posva)](https://twitter.com/posva) talk @dotJS 2019.
+**Part 1**: Presentation based on [Eduardo’s (@posva)](https://twitter.com/posva) talk @dotJS 2019.
+
+**Part 2**: Composing Layouts with Vue Router. Authored by Daniel Kelly @VueSchool.
 
 Access the deck on [Slides.com](https://slides.com/emanuell/modern-frontend-routing).
 
