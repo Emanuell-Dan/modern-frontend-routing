@@ -1,6 +1,7 @@
 <template>
   <div>
     <h1 class="text-4xl mb-10">About</h1>
+
     <img
       class="mb-10 rounded"
       width="400"
@@ -8,6 +9,7 @@
       :src="`https://picsum.photos/400/225?${Math.random()}`"
       alt="Shoes"
     />
+
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien
       diam, sollicitudin hendrerit consequat a, malesuada sed odio. Maecenas

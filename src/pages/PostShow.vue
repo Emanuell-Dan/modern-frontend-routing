@@ -9,6 +9,7 @@
       :src="`https://picsum.photos/400/225?${$route.params.id}`"
       alt="Shoes"
     />
+
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien
       diam, sollicitudin hendrerit consequat a, malesuada sed odio. Maecenas
@@ -22,6 +23,7 @@
     </p>
 
     <h2 class="text-xl">Heading 2</h2>
+
     <p>
       Integer non hendrerit massa, in dictum mauris. Suspendisse suscipit
       eleifend est, nec aliquet eros consectetur eget. Pellentesque consectetur
@@ -43,6 +45,7 @@
     </p>
 
     <h2 class="text-xl">Heading 2</h2>
+
     <p>
       Pellentesque commodo quis dui non elementum. In non lacus vehicula,
       placerat est ut, interdum lorem. Quisque nec sapien vitae tellus interdum

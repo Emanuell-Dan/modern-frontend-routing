@@ -8,12 +8,14 @@
         alt="Shoes"
       />
     </figure>
+
     <div class="card-body">
       <h2 class="card-title">{{ title }}</h2>
+
       <div class="justify-end card-actions">
-        <RouterLink :to="`/posts/${id}`" class="btn btn-primary"
-          >Read</RouterLink
-        >
+        <RouterLink :to="`/posts/${id}`" class="btn btn-primary">
+          Read
+        </RouterLink>
       </div>
     </div>
   </div>

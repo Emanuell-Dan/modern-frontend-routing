@@ -2,6 +2,7 @@
   <div class="sm:mx-10 sm:w-1/4">
     <ul class="menu border rounded">
       <li><strong>Sidebar 2</strong></li>
+
       <li class="whitespace-nowrap">
         <a>
           <svg
@@ -21,6 +22,7 @@
           Item 2
         </a>
       </li>
+
       <li class="whitespace-nowrap">
         <a>
           <svg
@@ -40,6 +42,7 @@
           Item 1
         </a>
       </li>
+
       <li class="whitespace-nowrap">
         <a>
           <svg
